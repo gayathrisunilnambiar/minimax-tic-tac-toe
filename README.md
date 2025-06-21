@@ -35,8 +35,3 @@ open game.html   # (macOS)
 ```
 
 No additional dependencies required, enjoy!
----
-
-## 📜 License
-
-MIT License — use freely with credit!
