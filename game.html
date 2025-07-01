@@ -56,19 +56,22 @@
     .cell {
       width: 100px;
       height: 100px;
+      padding: 10px;
       background-color: #2e2e3e;
-      border-radius: 1rem;
-      box-shadow: 0 0 1rem rgba(0,0,0,0.4);
+      border-radius: 0; /* remove rounding for pixel effect */
       font-size: 3rem;
       display: flex;
       align-items: center;
       justify-content: center;
       cursor: pointer;
-      transition: background-color 0.2s;
+      font-family: 'Press Start 2P', monospace;
+      box-shadow: 6px 6px 0 #000; /* 👈 pixel-style shadow */
+      transition: all 0.2s ease-in-out;
     }
 
     .cell:hover {
       background-color: #3e3e5a;
+      box-shadow: 3px 3px 0 #000; 
     }
 
     .cell.x {
