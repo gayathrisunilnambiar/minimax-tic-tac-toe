@@ -20,6 +20,8 @@ Challenge a friend or take on an unbeatable AI — all in a nostalgic pixel-art 
 
 ---
 
+🔗 **Play Now**: [https://gayathrisunilnambiar.github.io/minimax-tic-tac-toe/](https://gayathrisunilnambiar.github.io/minimax-tic-tac-toe/)
+
 ## 🚀 How to Run
 
 ```bash
